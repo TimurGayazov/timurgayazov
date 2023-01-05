@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurgayazov)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@
 
 <div id="badges" align="center">
   
-  <h3 align="center">Contact with me:</h3>
+  <h3 align="center">💻 Contact with me:</h3>
   
   [![Linkedin Badge](https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/timuuuu)
   [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/timuuuuuuuuuu)
