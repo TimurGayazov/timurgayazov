@@ -23,7 +23,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurgayazov)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-<h3 align="center">🛠️ Languages and Tools:</h3>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&repeat=true&width=220&height=30&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a>
+  </div>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -39,10 +42,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+<br>
 <div id="badges" align="center">
-  
-  <h3 align="center">💻 Contact with me:</h3>
+  <div align="center">
+    <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&repeat=true&width=180&height=30&lines=Contact+with+me%3A" alt="Typing SVG" /></a>
+  </div>
   
   [![Linkedin Badge](https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/timuuuu)
   [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/timuuuuuuuuuu)
