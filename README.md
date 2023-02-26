@@ -1,14 +1,11 @@
-***
+
 <h1 align="center">Hi there, I'm <a href="https://vk.com/timuuuu" target="_blank">Timur</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia</h3>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student,+IT+news+writer+from+Russia)](https://git.io/typing-svg)
-  
-  
-  </div>
+  <h3 align="center">A second-year student of UlSTU. I am developing in Python, Java, Js, Php.</h3>
+  <h3 align="center">Here you can get acquainted with my small projects. Don't judge strictly)</h3>
+</div>
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ernpx328atcos08fgdysyckqizc8jq0lv5f3gdll&rid=giphy.gif&ct=g" width="40%" cursor="defolt"/>
