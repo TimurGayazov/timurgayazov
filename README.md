@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div align="center">
-  <h3 align="center">A third-year student of UlSTU. I am developing in Python, Flask Django.</h3>
+  <h3 align="center">A third-year student of UlSTU. I am developing in Python, Flask, Django.</h3>
   <h3 align="center">Here you can get acquainted with my small projects. Don't judge strictly)</h3>
 </div>
 
