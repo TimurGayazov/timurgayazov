@@ -6,15 +6,7 @@
   <h3 align="center">A third-year student of UlSTU. I am developing in Python, Flask, Django.</h3>
   <h3 align="center">Here you can get acquainted with my small projects. Don't judge strictly)</h3>
 </div>
-
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ernpx328atcos08fgdysyckqizc8jq0lv5f3gdll&rid=giphy.gif&ct=g" width="40%" cursor="defolt"/>
-</div>
-
 <br>
-
-
-
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurgayazov)](https://github.com/anuraghazra/github-readme-stats)
